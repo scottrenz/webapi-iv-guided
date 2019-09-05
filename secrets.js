@@ -1,5 +1,0 @@
-modulle.exports = {
-  develoment {
-      
-  }
-}
